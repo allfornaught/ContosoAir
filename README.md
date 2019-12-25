@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/naughtlabs/contosoair/_apis/build/status/allfornaught.ContosoAir?branchName=master)](https://dev.azure.com/naughtlabs/contosoair/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
